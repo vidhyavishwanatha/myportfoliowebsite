@@ -195,7 +195,7 @@ nav.sticky .menu-btn{
 /* Those Elements Where We Have Apply Same CSS,
  I'm Selecting Directly 'Section Tag' and 'Class'  */
 section{
-  padding-top: 250px;
+  padding-top: 300px;
 }
 section .content{
   width: 80%;
